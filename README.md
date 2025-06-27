@@ -59,12 +59,19 @@ This project follows a collaborative approach involving multiple key roles to en
 **Role	Responsibilities**
 
 Project Manager     |	Coordinates the team, manages timelines, and ensures goals are met.
+
 Product Owner       |	Defines features, sets priorities, and aligns product with user needs.
+
 Scrum Master	      | Facilitates Agile process and removes team blockers.
+
 Frontend Developers |	Build the UI, handle routing, API integration, and ensure responsiveness.
+
 Backend Developers	| Create APIs, manage the database, and handle authentication.
+
 Designers	          | Design UI/UX, create mockups, and ensure a smooth user experience.
+
 QA/Testers	        | Test features, find bugs, and ensure overall functionality.
+
 DevOps Engineers	  | Manage deployment, performance, and CI/CD pipelines.
 
 
