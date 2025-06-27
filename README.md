@@ -1,53 +1,42 @@
-AirBnB Full-Stack Clone
+# AirBnB Full-Stack Clone
 This is a full-stack clone of the popular accommodation booking platform AirBnB. The aim of this project is to replicate core functionalities of the real platform by building a fully functional web application that enables users to:
 
-Browse and search for property listings
+- Browse and search for property listings
+- View detailed information about each property
+- Create and manage listings (for hosts)
+- Book available properties
+- Authenticate and manage user accounts
 
-View detailed information about each property
+The project covers all major aspects of modern web development — with a primary focus on the frontend UI.
 
-Create and manage listings (for hosts)
+**Project Goals**
+- Gain hands-on experience in full-stack web development
+- Practice building RESTful APIs and integrating with the frontend
+- Implement user authentication and authorization
+- Create a responsive and user-friendly interface
 
-Book available properties
+**Tech Stack**
+*Frontend
+- React.js (with Hooks)
+- Tailwind CSS or Styled Components
+- React Router
+- Axios for API requests
 
-Authenticate and manage user accounts
-
-⚠️ The project covers all major aspects of modern web development — with a primary focus on the frontend UI.
-
-🎯 Project Goals
-Gain hands-on experience in full-stack web development
-
-Practice building RESTful APIs and integrating with the frontend
-
-Implement user authentication and authorization
-
-Create a responsive and user-friendly interface
-
-🛠️ Tech Stack
-Frontend
-React.js (with Hooks)
-
-Tailwind CSS or Styled Components
-
-React Router
-
-Axios for API requests
-
-🎨 UI/UX Design Planning
+**UI/UX Design Planning**
 A clean and intuitive UI is essential to create a seamless booking experience. This project focuses on building a responsive and user-friendly design.
 
 Design Goals
-Simple, mobile-first layout
+- Simple, mobile-first layout
+- Easy navigation and clear actions
+- Smooth form interactions and feedback
 
-Easy navigation and clear actions
+**Core Pages**
+| Page	                      |                      Description                              |
+------------------------------------------------------------------------------------------------
+| Property Listing View       |    Grid of all properties with search and filters
+| Listing Detailed            |    View	Full details of a property with images and booking option
+| Simple Checkout View	      |    Minimal form to complete a booking
 
-Smooth form interactions and feedback
-
-Core Pages
-Page	Description
-Property Listing View	Grid of all properties with search and filters
-Listing Detailed View	Full details of a property with images and booking option
-Simple Checkout View	Minimal form to complete a booking
-
-Why It Matters
+**Why It Matters**
 A user-friendly design improves usability, builds trust, and increases booking success — all essential for a modern booking platform.
 
