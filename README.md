@@ -31,13 +31,17 @@ Design Goals
 - Smooth form interactions and feedback
 
 **Core Pages**
+
 | Page	                      |                      Description                              |
+
 ------------------------------------------------------------------------------------------------
+
 | Property Listing View       |    Grid of all properties with search and filters
+
 | Listing Detailed            |    View	Full details of a property with images and booking option
+
 | Simple Checkout View	      |    Minimal form to complete a booking
 
 **Why It Matters**
-
 A user-friendly design improves usability, builds trust, and increases booking success — all essential for a modern booking platform.
 
