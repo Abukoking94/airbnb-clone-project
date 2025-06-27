@@ -75,3 +75,12 @@ QA/Testers	        | Test features, find bugs, and ensure overall functionality.
 DevOps Engineers	  | Manage deployment, performance, and CI/CD pipelines.
 
 
+**UI Component Patterns**
+
+To ensure consistency and reusability across the application, the UI is structured around modular components. Below are the key UI elements planned:
+
+- **Navbar**: Displays the logo, navigation links, user auth status, and a menu for profile or listing actions. Stays fixed for quick access.
+
+- **Property Card**: A reusable card showing property image, title, location, price per night, and rating. Used in listing grids.
+
+- **Footer**: Simple footer with site links, social icons, and copyright.
