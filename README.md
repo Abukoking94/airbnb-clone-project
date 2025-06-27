@@ -51,3 +51,20 @@ Design Goals
 
 A user-friendly design improves usability, builds trust, and increases booking success — all essential for a modern booking platform.
 
+
+**Project Roles and Responsibilities**
+
+This project follows a collaborative approach involving multiple key roles to ensure smooth development, design, testing, and deployment. Each role contributes to delivering a high-quality, scalable, and user-friendly web application.
+
+**Role	Responsibilities**
+
+Project Manager     |	Coordinates the team, manages timelines, and ensures goals are met.
+Product Owner       |	Defines features, sets priorities, and aligns product with user needs.
+Scrum Master	      | Facilitates Agile process and removes team blockers.
+Frontend Developers |	Build the UI, handle routing, API integration, and ensure responsiveness.
+Backend Developers	| Create APIs, manage the database, and handle authentication.
+Designers	          | Design UI/UX, create mockups, and ensure a smooth user experience.
+QA/Testers	        | Test features, find bugs, and ensure overall functionality.
+DevOps Engineers	  | Manage deployment, performance, and CI/CD pipelines.
+
+
