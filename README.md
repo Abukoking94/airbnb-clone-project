@@ -38,5 +38,6 @@ Design Goals
 | Simple Checkout View	      |    Minimal form to complete a booking
 
 **Why It Matters**
+
 A user-friendly design improves usability, builds trust, and increases booking success — all essential for a modern booking platform.
 
